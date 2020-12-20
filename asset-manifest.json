@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/interview-react-app/static/css/main.bd98ee99.chunk.css",
+    "main.css": "/interview-react-app/static/css/main.c3e30ed5.chunk.css",
     "main.js": "/interview-react-app/static/js/main.01f18804.chunk.js",
     "main.js.map": "/interview-react-app/static/js/main.01f18804.chunk.js.map",
     "runtime-main.js": "/interview-react-app/static/js/runtime-main.b1423d54.js",
@@ -10,13 +10,13 @@
     "static/js/3.3e66437f.chunk.js": "/interview-react-app/static/js/3.3e66437f.chunk.js",
     "static/js/3.3e66437f.chunk.js.map": "/interview-react-app/static/js/3.3e66437f.chunk.js.map",
     "index.html": "/interview-react-app/index.html",
-    "static/css/main.bd98ee99.chunk.css.map": "/interview-react-app/static/css/main.bd98ee99.chunk.css.map",
+    "static/css/main.c3e30ed5.chunk.css.map": "/interview-react-app/static/css/main.c3e30ed5.chunk.css.map",
     "static/js/2.6400de98.chunk.js.LICENSE.txt": "/interview-react-app/static/js/2.6400de98.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b1423d54.js",
     "static/js/2.6400de98.chunk.js",
-    "static/css/main.bd98ee99.chunk.css",
+    "static/css/main.c3e30ed5.chunk.css",
     "static/js/main.01f18804.chunk.js"
   ]
 }
